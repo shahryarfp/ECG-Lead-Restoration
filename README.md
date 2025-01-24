@@ -27,7 +27,7 @@ The original study addresses challenges in 12-lead ECGs caused by noise and miss
 The study proposed combining statistical linear regression and deep learning (CNN + Bi-LSTM) to reconstruct missing leads using optimal combinations of three leads.
 
 ### Modifications
-1. **Dataset**: The original dataset was unavailable, so an alternative was used.
+1. **Dataset**: The original dataset was unavailable, so an alternative was used from [PhysioNet]([https://physionet.org/](https://physionet.org/content/ecg-arrhythmia/1.0.0/)).
 2. **Noise Removal**: Additional preprocessing steps, including wavelet denoising and stricter thresholds.
 3. **Model Enhancements**: Replacing Bi-LSTM with a U-Net and Transformer bottleneck, reducing parameters and improving training efficiency.
 
@@ -78,7 +78,7 @@ Sample of results from leads I model:
    - Wavelet Toolbox
    - Statistics and Machine Learning Toolbox
 2. Python with libraries: `numpy`, `pandas`, `tensorflow`, etc.
-3. Download the ECG dataset from [PhysioNet](https://physionet.org/).
+3. Download the ECG dataset from [PhysioNet]([https://physionet.org/](https://physionet.org/content/ecg-arrhythmia/1.0.0/)).
 
 ### Step-by-Step Instructions
 1. **Extract ECG Data**
