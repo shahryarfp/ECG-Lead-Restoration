@@ -11,14 +11,6 @@ Electrocardiograms (ECGs) are widely used for diagnosing cardiac conditions. How
 - Linear regression to identify optimal lead combinations.
 - Deep learning model using a U-Net architecture with a Transformer bottleneck for reconstruction.
 
-## Table of Contents
-1. [Abstract](#abstract)
-2. [Procedure](#procedure)
-3. [Methodology](#methodology)
-4. [Results](#results)
-5. [How to Use](#how-to-use)
-6. [Acknowledgments](#acknowledgments)
-
 ## Abstract
 The original study addresses challenges in 12-lead ECGs caused by noise and missing signals. This project replicates the methodology, applying additional optimizations such as GPU acceleration, stricter outlier removal, and an improved deep-learning model. The primary goal is to evaluate and enhance the study’s findings.
 
