@@ -82,12 +82,12 @@ Sample of results from leads I model:
 
 ### Step-by-Step Instructions
 1. **Extract ECG Data**
-   - Open and run [Database_Extraction.m](./Preprocessing%20Code/Database_Extraction.m) in MATLAB.
+   - Open and run [Database_Extraction.m](./Preprocessing%20Code/Database_extraction.m) in MATLAB.
    - Set the `root_folder` variable to your dataset path.
 2. **Preprocess the Data**
-   - Run `Preprocessing.m` to generate preprocessed chunks.
+   - Run [Preprocessing.m](./Preprocessing%20Code/Preprocessing.m) to generate preprocessed chunks.
 3. **Assess Data Quality**
-   - Run `assess_record_quality.m` to filter and classify signals.
+   - Run [assess_record_quality.m](./Preprocessing%20Code/Assess_record_quality.m) to filter and classify signals.
 4. **Model Training**
    - Use the [Python notebook](./ecg_restoration.ipynb) provided to load preprocessed data and train models.
 
