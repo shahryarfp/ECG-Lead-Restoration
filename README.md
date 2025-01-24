@@ -78,7 +78,7 @@ Sample of results from leads I model:
    - Wavelet Toolbox
    - Statistics and Machine Learning Toolbox
 2. Python with libraries: `numpy`, `pandas`, `tensorflow`, etc.
-3. Download the ECG dataset from [PhysioNet]([https://physionet.org/](https://physionet.org/content/ecg-arrhythmia/1.0.0/)).
+3. Download the ECG dataset from [PhysioNet](https://physionet.org/content/ecg-arrhythmia/1.0.0/).
 
 ### Step-by-Step Instructions
 1. **Extract ECG Data**
