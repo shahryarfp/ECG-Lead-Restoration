@@ -39,6 +39,9 @@ The study proposed combining statistical linear regression and deep learning (CN
 
 ### Model Architecture
 The deep-learning model employs a U-Net-style encoder-decoder with a Transformer bottleneck:
+
+![Example Output](./Images/model.png)
+
 - **Encoder**: Extracts multi-scale features.
 - **Transformer Bottleneck**: Captures global relationships.
 - **Decoder**: Reconstructs the target lead.
