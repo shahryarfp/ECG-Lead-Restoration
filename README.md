@@ -51,7 +51,7 @@ The deep-learning model employs a U-Net-style encoder-decoder with a Transformer
 - **Reconstruction Accuracy**: Achieved lower RMSE and higher cosine similarity compared to the original model.
 
 ## Results
-![Example Output](./Images/model.png)
+![Example Output](./Images/Prediction.png)
 
 ### Metrics Comparison
 | Lead  | Cosine Similarity (Paper) | Cosine Similarity (Ours) | RMSE (Paper) | RMSE (Ours) |
