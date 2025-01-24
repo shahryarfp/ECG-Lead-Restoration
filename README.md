@@ -92,7 +92,7 @@ Sample of results from leads I model:
    - Use the Python notebook provided to load preprocessed data and train models.
 
 ## Acknowledgments
-This project was developed as part of the Biomedical Signal Processing Laboratory (POLIMI 2024-2025) by:
+This project was developed as part of the course Biomedical Signal Processing Laboratory (POLIMI 2024-2025) by:
 - Jazmín Azul Fermani
 - Federico Sangineto Cotrina
 - Shahryar Namdari Ghareghani
@@ -100,4 +100,4 @@ This project was developed as part of the Biomedical Signal Processing Laborator
 For more details, refer to the full [Report](./Report.pdf).
 
 ---
-Feel free to fork, contribute, and share your feedback!
+Feel free to contribute, and share your feedback!
