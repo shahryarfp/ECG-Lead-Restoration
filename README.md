@@ -1,4 +1,4 @@
-# Restoration of Missing or Low-Quality 12-Lead ECG Signals
+# Restoration of Missing or Low-Quality ECG Leads
 
 This repository contains the MATLAB and Python implementation for restoring missing or low-quality 12-lead ECG signals using an ensemble deep-learning model. The project replicates and enhances the methodology proposed in the [Paper](./paper.pdf) titled *"Restoration of Missing or Low-Quality 12-Lead ECG Signals Using Ensemble Deep-Learning Model with Optimal Combination"*. 
 
