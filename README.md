@@ -82,7 +82,7 @@ Sample of results from leads I model:
 
 ### Step-by-Step Instructions
 1. **Extract ECG Data**
-   - Open and run [Database_Extraction.m](./Preprocessing%20code/Database_Extraction.m) in MATLAB.
+   - Open and run [Database_Extraction.m](./Preprocessing%20Code/Database_Extraction.m) in MATLAB.
    - Set the `root_folder` variable to your dataset path.
 2. **Preprocess the Data**
    - Run `Preprocessing.m` to generate preprocessed chunks.
