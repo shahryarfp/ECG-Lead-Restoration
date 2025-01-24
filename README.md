@@ -49,7 +49,7 @@ Sample of results from leads I model:
 
 ![Example Output](./Images/prediction.png)
 
-| Lead  | Cosine Similarity | RMSE (μV) |
+|       | Cosine Similarity | RMSE (μV) |
 |-------|-------------------|--------------|
 | Lead I| 0.991             | 0.059        |
 | Lead II| 0.993            | 0.047        |
