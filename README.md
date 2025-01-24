@@ -37,7 +37,7 @@ The study proposed combining statistical linear regression and deep learning (CN
 1. **Filtering**: Bandpass filtering (0.05–150 Hz) and highpass filtering (cutoff at 0.5 Hz) to remove noise.
 2. **Wavelet Denoising**: Daubechies mother wavelets to target ECG-specific noise.
 3. **Normalization**: Min-max scaling for improved numerical stability.
-4. and few additional steps
+4. And few additional steps
 
 ### Model Architecture
 The deep-learning model employs a U-Net-style encoder-decoder with a Transformer bottleneck:
