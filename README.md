@@ -89,7 +89,7 @@ Sample of results from leads I model:
 3. **Assess Data Quality**
    - Run `assess_record_quality.m` to filter and classify signals.
 4. **Model Training**
-   - Use the Python notebook provided to load preprocessed data and train the model.
+   - Use the Python notebook provided to load preprocessed data and train models.
 
 ## Acknowledgments
 This project was developed as part of the Biomedical Signal Processing Laboratory (POLIMI 2024-2025) by:
