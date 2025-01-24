@@ -89,7 +89,7 @@ Sample of results from leads I model on validation data:
 This project was developed as part of the course Biomedical Signal Processing Laboratory (POLIMI 2024-2025) by:
 - Jazmín Azul Fermani
 - [Federico Sangineto Cotrina](https://github.com/Fede411)
-- Shahryar Namdari Ghareghani
+- And Me :)
 
 For more details, refer to the full [Report](./Report.pdf).
 
