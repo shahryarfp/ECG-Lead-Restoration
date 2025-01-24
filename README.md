@@ -33,6 +33,7 @@ The study proposed combining statistical linear regression and deep learning (CN
 
 ## Methodology
 ### Data Preprocessing
+![Example Output](./Images/Preprocessing.png)
 1. **Filtering**: Bandpass filtering (0.05–150 Hz) and highpass filtering (cutoff at 0.5 Hz) to remove noise.
 2. **Wavelet Denoising**: Daubechies mother wavelets to target ECG-specific noise.
 3. **Normalization**: Min-max scaling for improved numerical stability.
