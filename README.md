@@ -82,7 +82,7 @@ This project was developed as part of the Biomedical Signal Processing Laborator
 - Federico Sangineto Cotrina
 - Shahryar Namdari Ghareghani
 
-For more details, refer to the full [Report](path/to/Report.pdf).
+For more details, refer to the full [Report](./Report.pdf).
 
 ---
 Feel free to fork, contribute, and share your feedback!
